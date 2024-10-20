@@ -12,3 +12,7 @@
 
 ### مدار در حالت خاموش 🌙
 > ![blink_circit](/media/Low.jpg)
+
+### شکل شماتیک مدار
+
+> ![blink_circit](/media/shematich-01.jpg)
